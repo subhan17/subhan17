@@ -2,8 +2,8 @@
 
 💻 **Senior Architect - Quality Engineering | SDET | Test Automation Specialist**
 
-- 🔭 I’m currently working on advanced **Selenium + Java frameworks** with TestNG, Allure, and Dockerized Selenium Grid.
-- 🌱 Exploring **AI in Test Automation** (LangChain + OpenAI integrations).
+- 🔭 I’m currently working on advanced **Playwright + JS/TS , Selenium + Java frameworks** with Dockerized Selenium Grid and AWS.
+- 🌱 Exploring **AI in Test Automation** (LangChain + OpenAI integrations, MCP).
 - 🚀 Passionate about **scalable test architecture, CI/CD, and cloud-native QA solutions**.
 - 👨‍👩‍👧‍👦 Based in Hyderabad, India | Open to relocation (UAE / Europe / Canada).
 - ✍️ Sharing thoughts on [LinkedIn](https://www.linkedin.com/in/subhan-ahmed-md-76b821178/).
