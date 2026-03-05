@@ -20,7 +20,7 @@
 ---
 
 ## 📂 Featured Repositories
-- [🤖 Agentic-ai-essay-reflection-agent]([https://github.com/subhan17/agentic-ai-essay-reflection-agent])
+- [🤖 Agentic-ai-essay-reflection-agent](https://github.com/subhan17/agentic-ai-essay-reflection-agent)
 - [💳 Playwright with GenAI(JS + ZeroStep)](https://github.com/subhan17/PlaywrightWithGenAI)
 - [🤖 AI-Powered Test Case Generator](https://github.com/subhan17/langchain-qe-tc-generator)
 - [📱 Selenium + Java + TestNG + Allure E2E Framework](https://github.com/subhan17/Altimertik_MMT)
