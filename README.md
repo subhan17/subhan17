@@ -2,7 +2,7 @@
 
 💻 **Senior Architect - Quality Engineering | SDET | Test Automation Specialist**
 
-- 🔭 I’m currently working on advanced **Playwright + JS/TS , Selenium + Java frameworks** with Dockerized Selenium Grid and AWS.
+- 🔭 I’m currently working on  **Agentic AI** advanced **Playwright + JS/TS with copilot,cursor AI,MPC , Selenium + Java frameworks** with Dockerized Selenium Grid and AWS.
 - 🌱 Exploring **AI in Test Automation** (LangChain + OpenAI integrations, MCP).
 - 🚀 Passionate about **scalable test architecture, CI/CD, and cloud-native QA solutions**.
 - 👨‍👩‍👧‍👦 Based in Hyderabad, India | Open to relocation (UAE / Europe / Canada).
