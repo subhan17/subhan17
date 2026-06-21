@@ -15,7 +15,7 @@
 - **Automation:** Playwright, Selenium, Appium, Cypress, REST Assured, Requests
 - **CI/CD:** Jenkins, GitHub Actions, Docker, AWS
 - **Reporting:** Allure, ExtentReports
-- **Gen AI:** OpenAI API,Claude, LangChain, GenAI-powered testing
+- **Gen AI:** Antropic Claude code, OpenAI , Gemini , LangChain, LangGraph, GenAI-powered testing
 
 ---
 
