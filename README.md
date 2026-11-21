@@ -11,7 +11,7 @@ My recent work spans enterprise AI-powered test automation, resilient Playwright
 - 🤖 **GenAI:** Anthropic Claude, OpenAI, Gemini, LangChain, LangGraph, browser-use, smolagents and MCP
 - ☁️ **Engineering:** Docker, GitHub Actions, Jenkins, AWS/Azure and enterprise CI/CD platforms
 - 📊 **Recent development:** designed and built a GenAI-powered Python test-automation framework integrating AI across the STLC, combining Playwright, pytest-bdd, REST API automation, self-healing locators, agentic browser automation and an AI testing assistant.
-- 🌍 Based in Hyderabad, India | Open to relocation — **UAE / GCC / Europe / Canada**
+- 🌍 Based in Hyderabad, India | Open to relocation — **UAE / GCC**
 - 💼 [LinkedIn](https://www.linkedin.com/in/subhan-ahmed-md-76b821178/)
 
 ---
