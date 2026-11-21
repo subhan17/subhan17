@@ -18,7 +18,7 @@ My recent work spans enterprise AI-powered test automation, resilient Playwright
 
 ## 🚀 Recent Development — AI-Powered Test Automation Assistant
 
-**[AI-Powered Test Automation Assistant — GenAI Practitioner Capstone](https://github.com/subhan17/ai-test-automation-capstone)**
+**[AI-Powered Test Automation Assistant ]https://github.com/subhan17/AI-Powered-Test-Automation-Assistant-**
 
 A **uniform Python test-automation framework integrating Generative AI across the Software Testing Life Cycle (STLC)**, built around a multi-city flight-booking use case with UI, API and AI-assisted testing.
 
