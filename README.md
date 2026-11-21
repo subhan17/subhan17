@@ -18,7 +18,7 @@ My recent work spans enterprise AI-powered test automation, resilient Playwright
 
 ## 🚀 Recent Development — AI-Powered Test Automation Assistant
 
-**[AI-Powered Test Automation Assistant ]https://github.com/subhan17/AI-Powered-Test-Automation-Assistant-**
+**[AI-Powered Test Automation Assistant](https://github.com/subhan17/AI-Powered-Test-Automation-Assistant-)**
 
 A **uniform Python test-automation framework integrating Generative AI across the Software Testing Life Cycle (STLC)**, built around a multi-city flight-booking use case with UI, API and AI-assisted testing.
 
@@ -102,7 +102,7 @@ The framework currently contains **26 BDD scenarios**, deterministic API/hybrid 
 
 ## 📂 Featured Repositories
 
-- 🤖 **[AI-Powered Test Automation Assistant](https://github.com/subhan17/ai-test-automation-capstone)**  
+- 🤖 **[AI-Powered Test Automation Assistant](https://github.com/subhan17/AI-Powered-Test-Automation-Assistant-)**  
   GenAI-integrated Python QE framework covering UI, API, BDD, self-healing automation, agentic browser automation and AI-assisted STLC workflows.
 
 - 🤖 **[AI-Powered Test Case Generator](https://github.com/subhan17/langchain-qe-tc-generator)**  
